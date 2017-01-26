@@ -5,7 +5,7 @@ A nice list of ES6 (ES2015) learning resources
 * [ ] [Formidable - ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [x] [Acamica - Fundamentos de ECMAScript6](https://www.acamica.com/cursos/134/es6-inicial)
 * [ ] [EggHead.io - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
-* [ ] [Frontend Masters - ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/)
+* [x] [Frontend Masters - ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/)
 * [ ] [Frontend Masters - JS.Next: ES6 / ES2015](https://frontendmasters.com/courses/jsnext-es6/)
 * [ ] [Wes Bos - ES6 for Everyone](https://es6.io/)
 
