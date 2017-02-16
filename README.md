@@ -19,4 +19,6 @@ A nice list of ES6 (ES2015) learning resources
 ## Other stuff
 - [ES6 Compatiblity Table](http://kangax.github.io/compat-table/es6/)
 - [ES6 Features and Examples](https://github.com/markerikson/react-redux-links/blob/master/es6-features.md)
+- [ES6 Promises Playground](https://bevacqua.github.io/promisees/)
+
 
