@@ -13,6 +13,7 @@ A nice list of ES6 (ES2015) learning resources
 - [ES6 Features](https://github.com/lukehoban/es6features)
 - [ES6 Features 2](https://github.com/rse/es6-features/)
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [ES6 Cheatsheet 2](https://devhints.io/es6)
 - [ES6 in 350 Bullet Points](https://github.com/bevacqua/es6)
 - [ES6 Learning](https://github.com/ericdouglas/ES6-Learning)
 
